@@ -4,8 +4,7 @@ Micro Project Work
 
 contact email : anuraggadhave.ag2@gmail.com
 
-LINK - https://aniket-dey2000.github.io/JsonPOwerDB.github.io/
-
+LINK - https://anuraggadhave.github.io/Student-Enrollment-Form/
 Title of the Project : Student Enrollment Form
 
 Description : Student Enrollment Form that will store data in STUDENT-TABLE relation of SCHOOL-DB database. Input Fields: {Roll-No, Full-Name, Class, Birth-Date, Address, Enrollment-Date}
