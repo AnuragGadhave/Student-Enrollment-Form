@@ -2,7 +2,7 @@
 Student Enrollment Form
 Micro Project Work
 
-contact email : aniketdeytiu@gmail.com
+contact email : anuraggadhave.ag2@gmail.com
 
 LINK - https://aniket-dey2000.github.io/JsonPOwerDB.github.io/
 
